@@ -42,7 +42,7 @@ export default function FeaturedProjectCard() {
               </h2>
             </div>
             <a
-              href="https://github.com/harsh"
+              href="https://github.com/harsharma-0"
               target="_blank"
               rel="noreferrer"
               className="rounded-md border border-cyan/40 px-4 py-2 text-sm font-semibold text-cyan transition hover:bg-cyan hover:text-navy"
